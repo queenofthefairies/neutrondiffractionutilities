@@ -1,6 +1,15 @@
-xrayutilities
+Neutrondiffractionutilities extension to xrayutilities
 =============
+# About neutrondiffractionutilities
+I am modifying the original xrayutilities package for neutron diffraction experiments
 
+* specifically single crystals     
+* mounted on an Eulerian cradle (4 circles total, 3 sample + 1 detector rotation axes)   
+* continuous wave source
+* large area detector
+* Wombat instrument at ANSTO's Australian Centre for Neutron Scattering
+
+# About xrayutilities
 
 [![Build Status](https://dev.azure.com/dominikkriegner/xrayutilities/_apis/build/status/dkriegner.xrayutilities?repoName=dkriegner%2Fxrayutilities&branchName=main)](https://dev.azure.com/dominikkriegner/xrayutilities/_build/)
 
